@@ -13,3 +13,17 @@ G:\My Drive\Projetos\Csharp\Fundamentos\obj\Debug\net7.0\refint\Fundamentos.dll
 G:\My Drive\Projetos\Csharp\Fundamentos\obj\Debug\net7.0\Fundamentos.pdb
 G:\My Drive\Projetos\Csharp\Fundamentos\obj\Debug\net7.0\Fundamentos.genruntimeconfig.cache
 G:\My Drive\Projetos\Csharp\Fundamentos\obj\Debug\net7.0\ref\Fundamentos.dll
+G:\My Drive\Estudos\Csharp\Fundamentos\Variaveis e Constantes\bin\Debug\net7.0\Fundamentos.exe
+G:\My Drive\Estudos\Csharp\Fundamentos\Variaveis e Constantes\bin\Debug\net7.0\Fundamentos.deps.json
+G:\My Drive\Estudos\Csharp\Fundamentos\Variaveis e Constantes\bin\Debug\net7.0\Fundamentos.runtimeconfig.json
+G:\My Drive\Estudos\Csharp\Fundamentos\Variaveis e Constantes\bin\Debug\net7.0\Fundamentos.dll
+G:\My Drive\Estudos\Csharp\Fundamentos\Variaveis e Constantes\bin\Debug\net7.0\Fundamentos.pdb
+G:\My Drive\Estudos\Csharp\Fundamentos\Variaveis e Constantes\obj\Debug\net7.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Estudos\Csharp\Fundamentos\Variaveis e Constantes\obj\Debug\net7.0\Fundamentos.AssemblyInfoInputs.cache
+G:\My Drive\Estudos\Csharp\Fundamentos\Variaveis e Constantes\obj\Debug\net7.0\Fundamentos.AssemblyInfo.cs
+G:\My Drive\Estudos\Csharp\Fundamentos\Variaveis e Constantes\obj\Debug\net7.0\Fundamentos.csproj.CoreCompileInputs.cache
+G:\My Drive\Estudos\Csharp\Fundamentos\Variaveis e Constantes\obj\Debug\net7.0\Fundamentos.dll
+G:\My Drive\Estudos\Csharp\Fundamentos\Variaveis e Constantes\obj\Debug\net7.0\refint\Fundamentos.dll
+G:\My Drive\Estudos\Csharp\Fundamentos\Variaveis e Constantes\obj\Debug\net7.0\Fundamentos.pdb
+G:\My Drive\Estudos\Csharp\Fundamentos\Variaveis e Constantes\obj\Debug\net7.0\Fundamentos.genruntimeconfig.cache
+G:\My Drive\Estudos\Csharp\Fundamentos\Variaveis e Constantes\obj\Debug\net7.0\ref\Fundamentos.dll
