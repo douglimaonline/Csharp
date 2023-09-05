@@ -1,0 +1,14 @@
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios4\Exercicios4\bin\Debug\net7.0\Exercicios4.exe
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios4\Exercicios4\bin\Debug\net7.0\Exercicios4.deps.json
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios4\Exercicios4\bin\Debug\net7.0\Exercicios4.runtimeconfig.json
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios4\Exercicios4\bin\Debug\net7.0\Exercicios4.dll
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios4\Exercicios4\bin\Debug\net7.0\Exercicios4.pdb
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios4\Exercicios4\obj\Debug\net7.0\Exercicios4.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios4\Exercicios4\obj\Debug\net7.0\Exercicios4.AssemblyInfoInputs.cache
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios4\Exercicios4\obj\Debug\net7.0\Exercicios4.AssemblyInfo.cs
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios4\Exercicios4\obj\Debug\net7.0\Exercicios4.csproj.CoreCompileInputs.cache
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios4\Exercicios4\obj\Debug\net7.0\Exercicios4.dll
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios4\Exercicios4\obj\Debug\net7.0\refint\Exercicios4.dll
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios4\Exercicios4\obj\Debug\net7.0\Exercicios4.pdb
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios4\Exercicios4\obj\Debug\net7.0\Exercicios4.genruntimeconfig.cache
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios4\Exercicios4\obj\Debug\net7.0\ref\Exercicios4.dll
