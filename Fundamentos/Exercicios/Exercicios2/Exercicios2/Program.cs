@@ -38,10 +38,10 @@ while (true) {
     if (salario <= 2000) {
         Console.WriteLine("Você está Isento do Imposto de Renda.");
     }
-    else if ((salario - 2000) <= 3000) {
+    else if (salario <= 3000) {
         Console.WriteLine($"Você de deve R${((salario - 2000) * 0.08).ToString("F2")} de Imposto de Renda.");
     }
-    else if ((salario - 2000) <= 4500) {
+    else if (salario <= 4500) {
         Console.WriteLine($"Você de deve R${((salario - 2000) * 0.18).ToString("F2")} de Imposto de Renda.");
     }
     else {

@@ -1,0 +1,14 @@
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios3\Exercicios3\bin\Debug\net7.0\Exercicios3.exe
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios3\Exercicios3\bin\Debug\net7.0\Exercicios3.deps.json
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios3\Exercicios3\bin\Debug\net7.0\Exercicios3.runtimeconfig.json
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios3\Exercicios3\bin\Debug\net7.0\Exercicios3.dll
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios3\Exercicios3\bin\Debug\net7.0\Exercicios3.pdb
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios3\Exercicios3\obj\Debug\net7.0\Exercicios3.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios3\Exercicios3\obj\Debug\net7.0\Exercicios3.AssemblyInfoInputs.cache
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios3\Exercicios3\obj\Debug\net7.0\Exercicios3.AssemblyInfo.cs
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios3\Exercicios3\obj\Debug\net7.0\Exercicios3.csproj.CoreCompileInputs.cache
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios3\Exercicios3\obj\Debug\net7.0\Exercicios3.dll
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios3\Exercicios3\obj\Debug\net7.0\refint\Exercicios3.dll
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios3\Exercicios3\obj\Debug\net7.0\Exercicios3.pdb
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios3\Exercicios3\obj\Debug\net7.0\Exercicios3.genruntimeconfig.cache
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Exercicios3\Exercicios3\obj\Debug\net7.0\ref\Exercicios3.dll
