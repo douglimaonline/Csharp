@@ -18,7 +18,6 @@ namespace Exercicios {
             }
 
            
-
             Console.WriteLine("--------------------------- Exercício 07 ---------------------------");
 
             Console.Write("Informe um numero inteiro: ");

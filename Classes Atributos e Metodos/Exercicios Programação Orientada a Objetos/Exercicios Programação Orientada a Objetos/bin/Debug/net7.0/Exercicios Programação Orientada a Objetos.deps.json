@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Exercicios Programação Orientada a Objetos/1.0.0": {
+        "runtime": {
+          "Exercicios Programação Orientada a Objetos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicios Programação Orientada a Objetos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
