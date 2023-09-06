@@ -7,10 +7,11 @@ namespace Exercicios {
 
             Console.WriteLine("--------------------------- Exercício 01 ---------------------------");
 
-            Pessoa pessoa1, pessoa2;
+            Person pessoa1, pessoa2, calculo;
 
-            pessoa1 = new Pessoa();
-            pessoa2 = new Pessoa();
+            pessoa1 = new Person();
+            pessoa2 = new Person();
+            calculo = new Person();
 
             Console.WriteLine("Dados da primeira pessoa: ");
             Console.Write("Nome: ");
@@ -26,19 +27,15 @@ namespace Exercicios {
             Console.Write("Idade: ");
             pessoa2.age = int.Parse(Console.ReadLine());
 
-            if (pessoa1.age > pessoa2.age) {
-                Console.WriteLine($"Pessoa mais velha: {pessoa1.name}");
-            }
-            else {
-                Console.WriteLine($"Pessoa mais velha: {pessoa2.name}");
-            }
+            Console.WriteLine(calculo.Older(pessoa1, pessoa2));
+            
 
             Console.WriteLine("--------------------------- Exercício 02 ---------------------------");
 
-            Pessoa pessoa3, pessoa4;
+            Person pessoa3, pessoa4;
 
-            pessoa3 = new Pessoa();
-            pessoa4 = new Pessoa();
+            pessoa3 = new Person();
+            pessoa4 = new Person();
 
             Console.WriteLine("Dados do primeiro funcionário: ");
             Console.Write("Nome: ");
