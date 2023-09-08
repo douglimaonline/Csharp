@@ -1,0 +1,14 @@
+G:\My Drive\Estudos\Csharp\Classes Atributos e Metodos\ExerciciosDeFixacao\ExerciciosDeFixacaoMembrosStaticos\ExerciciosDeFixacaoMembrosStaticos\bin\Debug\net7.0\ExerciciosDeFixacaoMembrosStaticos.exe
+G:\My Drive\Estudos\Csharp\Classes Atributos e Metodos\ExerciciosDeFixacao\ExerciciosDeFixacaoMembrosStaticos\ExerciciosDeFixacaoMembrosStaticos\bin\Debug\net7.0\ExerciciosDeFixacaoMembrosStaticos.deps.json
+G:\My Drive\Estudos\Csharp\Classes Atributos e Metodos\ExerciciosDeFixacao\ExerciciosDeFixacaoMembrosStaticos\ExerciciosDeFixacaoMembrosStaticos\bin\Debug\net7.0\ExerciciosDeFixacaoMembrosStaticos.runtimeconfig.json
+G:\My Drive\Estudos\Csharp\Classes Atributos e Metodos\ExerciciosDeFixacao\ExerciciosDeFixacaoMembrosStaticos\ExerciciosDeFixacaoMembrosStaticos\bin\Debug\net7.0\ExerciciosDeFixacaoMembrosStaticos.dll
+G:\My Drive\Estudos\Csharp\Classes Atributos e Metodos\ExerciciosDeFixacao\ExerciciosDeFixacaoMembrosStaticos\ExerciciosDeFixacaoMembrosStaticos\bin\Debug\net7.0\ExerciciosDeFixacaoMembrosStaticos.pdb
+G:\My Drive\Estudos\Csharp\Classes Atributos e Metodos\ExerciciosDeFixacao\ExerciciosDeFixacaoMembrosStaticos\ExerciciosDeFixacaoMembrosStaticos\obj\Debug\net7.0\ExerciciosDeFixacaoMembrosStaticos.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Estudos\Csharp\Classes Atributos e Metodos\ExerciciosDeFixacao\ExerciciosDeFixacaoMembrosStaticos\ExerciciosDeFixacaoMembrosStaticos\obj\Debug\net7.0\ExerciciosDeFixacaoMembrosStaticos.AssemblyInfoInputs.cache
+G:\My Drive\Estudos\Csharp\Classes Atributos e Metodos\ExerciciosDeFixacao\ExerciciosDeFixacaoMembrosStaticos\ExerciciosDeFixacaoMembrosStaticos\obj\Debug\net7.0\ExerciciosDeFixacaoMembrosStaticos.AssemblyInfo.cs
+G:\My Drive\Estudos\Csharp\Classes Atributos e Metodos\ExerciciosDeFixacao\ExerciciosDeFixacaoMembrosStaticos\ExerciciosDeFixacaoMembrosStaticos\obj\Debug\net7.0\ExerciciosDeFixacaoMembrosStaticos.csproj.CoreCompileInputs.cache
+G:\My Drive\Estudos\Csharp\Classes Atributos e Metodos\ExerciciosDeFixacao\ExerciciosDeFixacaoMembrosStaticos\ExerciciosDeFixacaoMembrosStaticos\obj\Debug\net7.0\ExerciciosDeFixacaoMembrosStaticos.dll
+G:\My Drive\Estudos\Csharp\Classes Atributos e Metodos\ExerciciosDeFixacao\ExerciciosDeFixacaoMembrosStaticos\ExerciciosDeFixacaoMembrosStaticos\obj\Debug\net7.0\refint\ExerciciosDeFixacaoMembrosStaticos.dll
+G:\My Drive\Estudos\Csharp\Classes Atributos e Metodos\ExerciciosDeFixacao\ExerciciosDeFixacaoMembrosStaticos\ExerciciosDeFixacaoMembrosStaticos\obj\Debug\net7.0\ExerciciosDeFixacaoMembrosStaticos.pdb
+G:\My Drive\Estudos\Csharp\Classes Atributos e Metodos\ExerciciosDeFixacao\ExerciciosDeFixacaoMembrosStaticos\ExerciciosDeFixacaoMembrosStaticos\obj\Debug\net7.0\ExerciciosDeFixacaoMembrosStaticos.genruntimeconfig.cache
+G:\My Drive\Estudos\Csharp\Classes Atributos e Metodos\ExerciciosDeFixacao\ExerciciosDeFixacaoMembrosStaticos\ExerciciosDeFixacaoMembrosStaticos\obj\Debug\net7.0\ref\ExerciciosDeFixacaoMembrosStaticos.dll
