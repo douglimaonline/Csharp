@@ -5,12 +5,18 @@ namespace Course {
         public double Preco;
         public int Quantidade;
 
-        public Produto (string nome, double preco, int quantidade) {
+        public Produto (string nome, double preco, int quantidade) { // Constutor
             Nome = nome;
             Preco = preco;
             Quantidade = quantidade;
         }
-        public double ValorTotalEmEstoque() {
+
+        public Produto (string nome, double preco) { // Sobrecarga (Quando há mais de um Construtor)
+            Nome = nome;
+            Preco = preco;
+        }
+
+            public double ValorTotalEmEstoque() {
             return Preco * Quantidade;
         }
         public void AdicionarProdutos(int quantidade) {
