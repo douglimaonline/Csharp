@@ -1,0 +1,14 @@
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Febonacci\Febonacci\bin\Debug\net7.0\Febonacci.exe
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Febonacci\Febonacci\bin\Debug\net7.0\Febonacci.deps.json
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Febonacci\Febonacci\bin\Debug\net7.0\Febonacci.runtimeconfig.json
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Febonacci\Febonacci\bin\Debug\net7.0\Febonacci.dll
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Febonacci\Febonacci\bin\Debug\net7.0\Febonacci.pdb
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Febonacci\Febonacci\obj\Debug\net7.0\Febonacci.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Febonacci\Febonacci\obj\Debug\net7.0\Febonacci.AssemblyInfoInputs.cache
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Febonacci\Febonacci\obj\Debug\net7.0\Febonacci.AssemblyInfo.cs
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Febonacci\Febonacci\obj\Debug\net7.0\Febonacci.csproj.CoreCompileInputs.cache
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Febonacci\Febonacci\obj\Debug\net7.0\Febonacci.dll
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Febonacci\Febonacci\obj\Debug\net7.0\refint\Febonacci.dll
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Febonacci\Febonacci\obj\Debug\net7.0\Febonacci.pdb
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Febonacci\Febonacci\obj\Debug\net7.0\Febonacci.genruntimeconfig.cache
+G:\My Drive\Estudos\Csharp\Fundamentos\Exercicios\Febonacci\Febonacci\obj\Debug\net7.0\ref\Febonacci.dll
