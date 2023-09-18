@@ -1,17 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
-using System.Threading.Tasks;
+﻿// Alterações que achei interessante após as correções:
+using System;
+using System.Globalization;
+
 
 namespace ExerciciosDeFixacao {
     internal class ContaBancaria {
-        /* cta bancária
-             * numero da conta
-             * nome do titular
-             * deposito inicial
-             */
 
         // Atributos
         public int Id { get; private set; }
@@ -21,25 +14,24 @@ namespace ExerciciosDeFixacao {
         // Construtores
         public ContaBancaria(int id, string nome) {
             Id = id;
-            Name= nome;
-        }
-        public ContaBancaria(int id, string nome, double saldo) {
-            Id = id;
             Name = nome;
-            Balance = saldo;
         }
+
+        public ContaBancaria(int id, string name, double balance) : this(id, name) {
+            Balance = balance;
+        }
+
 
         // Métodos
         public void Deposito(double valor) {
             Balance += valor;
         }
         public void Saque(double valor) {
-            Balance -= valor;
-            Balance -= 5.00; // Taxa de $5
+            Balance -= valor + 5;
         }
 
         public override string ToString() {
-            return $"Conta {Id}, Titular: {Name}, Saldo: ${Balance.ToString("F2")}\n";
+            return $"Conta {Id}, Titular: {Name}, Saldo: ${Balance.ToString("F2", CultureInfo.InvariantCulture)}\n";
         }
     }
 }
