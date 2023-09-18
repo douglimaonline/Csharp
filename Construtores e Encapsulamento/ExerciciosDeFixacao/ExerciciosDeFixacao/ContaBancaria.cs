@@ -17,9 +17,9 @@ namespace ExerciciosDeFixacao {
             Name = nome;
         }
 
-        public ContaBancaria(int id, string name, double balance) : this(id, name) {
-            Balance = balance;
-        }
+        public ContaBancaria(int id, string name, double depositoInicial) : this(id, name) {
+            Deposito(depositoInicial);
+        }//Ponto importante! Este construtor utiliza o metodo de deposito, pois precisa respeitar as regras de negocio para esta operação
 
 
         // Métodos
