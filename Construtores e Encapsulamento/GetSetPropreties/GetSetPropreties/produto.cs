@@ -5,9 +5,17 @@ using System.Globalization;
 
 namespace GetSetPropreties {
     class Produto {
-        private string _nome;
+
+        /* Ordem ideal para implementação dos atributos/metodos:
+         * Atributos privados
+         * propriedades autoimplementadas
+         * construtores
+         * propriedades customizadas
+         * outros metodos de classe
+        */
+        private string _nome; // Atributos privados
         private double _preco;
-        public int Quantidade {  get; private set; } //Auto propreties
+        public int Quantidade {  get; private set; } //Propriedades autoimplementadas (atalho: "prop" tab tab)
 
         public Produto(string nome, double preco, int quantidade) { // Constutor
             _nome = nome;
@@ -20,7 +28,7 @@ namespace GetSetPropreties {
             _preco = preco;
         }
 
-        public string Nome { //propreties: Vc consegue criar condições mas ainda usar no programa central a syntaxe de atributos
+        public string Nome { //Propreties cutomizadas: Vc consegue criar condições mas ainda usar no programa central a syntaxe de atributos
             get { return _nome; }
             set { 
                 if (value != null && value.Length > 1) { 
@@ -29,11 +37,10 @@ namespace GetSetPropreties {
             }
         }
 
-        public double Preco {
+        public double Preco { // set { _preco = value; } Não colocar set se vc não quer que alterem o preço, o usuário não terá acesso a alteração deste informação por segurança
             get { return _preco; } 
-            // set { _preco = value; } Não colocar set se vc não quer que alterem o preço, o usuário não terá acesso a alteração deste informação por segurança
         }
-
+        // Métodos:
         public double ValorTotalEmEstoque() {
             return _preco * Quantidade;
         }
