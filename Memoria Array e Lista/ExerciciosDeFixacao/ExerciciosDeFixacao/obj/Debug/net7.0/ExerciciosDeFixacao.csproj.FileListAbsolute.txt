@@ -1,0 +1,14 @@
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacao\ExerciciosDeFixacao\bin\Debug\net7.0\ExerciciosDeFixacao.exe
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacao\ExerciciosDeFixacao\bin\Debug\net7.0\ExerciciosDeFixacao.deps.json
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacao\ExerciciosDeFixacao\bin\Debug\net7.0\ExerciciosDeFixacao.runtimeconfig.json
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacao\ExerciciosDeFixacao\bin\Debug\net7.0\ExerciciosDeFixacao.dll
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacao\ExerciciosDeFixacao\bin\Debug\net7.0\ExerciciosDeFixacao.pdb
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacao\ExerciciosDeFixacao\obj\Debug\net7.0\ExerciciosDeFixacao.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacao\ExerciciosDeFixacao\obj\Debug\net7.0\ExerciciosDeFixacao.AssemblyInfoInputs.cache
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacao\ExerciciosDeFixacao\obj\Debug\net7.0\ExerciciosDeFixacao.AssemblyInfo.cs
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacao\ExerciciosDeFixacao\obj\Debug\net7.0\ExerciciosDeFixacao.csproj.CoreCompileInputs.cache
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacao\ExerciciosDeFixacao\obj\Debug\net7.0\ExerciciosDeFixacao.dll
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacao\ExerciciosDeFixacao\obj\Debug\net7.0\refint\ExerciciosDeFixacao.dll
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacao\ExerciciosDeFixacao\obj\Debug\net7.0\ExerciciosDeFixacao.pdb
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacao\ExerciciosDeFixacao\obj\Debug\net7.0\ExerciciosDeFixacao.genruntimeconfig.cache
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacao\ExerciciosDeFixacao\obj\Debug\net7.0\ref\ExerciciosDeFixacao.dll
