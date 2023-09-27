@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosDeFixacaoListas", "ExerciciosDeFixacaoListas\ExerciciosDeFixacaoListas.csproj", "{419B5AEB-87AB-46EB-84CC-3068038ACAF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{419B5AEB-87AB-46EB-84CC-3068038ACAF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419B5AEB-87AB-46EB-84CC-3068038ACAF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419B5AEB-87AB-46EB-84CC-3068038ACAF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419B5AEB-87AB-46EB-84CC-3068038ACAF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6276C344-EB7C-40C9-B6A2-59F5634DF358}
+	EndGlobalSection
+EndGlobal

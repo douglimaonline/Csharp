@@ -1,0 +1,14 @@
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacaoListas\ExerciciosDeFixacaoListas\bin\Debug\net7.0\ExerciciosDeFixacaoListas.exe
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacaoListas\ExerciciosDeFixacaoListas\bin\Debug\net7.0\ExerciciosDeFixacaoListas.deps.json
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacaoListas\ExerciciosDeFixacaoListas\bin\Debug\net7.0\ExerciciosDeFixacaoListas.runtimeconfig.json
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacaoListas\ExerciciosDeFixacaoListas\bin\Debug\net7.0\ExerciciosDeFixacaoListas.dll
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacaoListas\ExerciciosDeFixacaoListas\bin\Debug\net7.0\ExerciciosDeFixacaoListas.pdb
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacaoListas\ExerciciosDeFixacaoListas\obj\Debug\net7.0\ExerciciosDeFixacaoListas.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacaoListas\ExerciciosDeFixacaoListas\obj\Debug\net7.0\ExerciciosDeFixacaoListas.AssemblyInfoInputs.cache
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacaoListas\ExerciciosDeFixacaoListas\obj\Debug\net7.0\ExerciciosDeFixacaoListas.AssemblyInfo.cs
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacaoListas\ExerciciosDeFixacaoListas\obj\Debug\net7.0\ExerciciosDeFixacaoListas.csproj.CoreCompileInputs.cache
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacaoListas\ExerciciosDeFixacaoListas\obj\Debug\net7.0\ExerciciosDeFixacaoListas.dll
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacaoListas\ExerciciosDeFixacaoListas\obj\Debug\net7.0\refint\ExerciciosDeFixacaoListas.dll
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacaoListas\ExerciciosDeFixacaoListas\obj\Debug\net7.0\ExerciciosDeFixacaoListas.pdb
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacaoListas\ExerciciosDeFixacaoListas\obj\Debug\net7.0\ExerciciosDeFixacaoListas.genruntimeconfig.cache
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\ExerciciosDeFixacaoListas\ExerciciosDeFixacaoListas\obj\Debug\net7.0\ref\ExerciciosDeFixacaoListas.dll
