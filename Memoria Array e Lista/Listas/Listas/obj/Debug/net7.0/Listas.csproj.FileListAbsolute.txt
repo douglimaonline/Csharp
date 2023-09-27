@@ -1,0 +1,14 @@
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\Listas\Listas\bin\Debug\net7.0\Listas.exe
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\Listas\Listas\bin\Debug\net7.0\Listas.deps.json
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\Listas\Listas\bin\Debug\net7.0\Listas.runtimeconfig.json
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\Listas\Listas\bin\Debug\net7.0\Listas.dll
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\Listas\Listas\bin\Debug\net7.0\Listas.pdb
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\Listas\Listas\obj\Debug\net7.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\Listas\Listas\obj\Debug\net7.0\Listas.AssemblyInfoInputs.cache
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\Listas\Listas\obj\Debug\net7.0\Listas.AssemblyInfo.cs
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\Listas\Listas\obj\Debug\net7.0\Listas.csproj.CoreCompileInputs.cache
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\Listas\Listas\obj\Debug\net7.0\Listas.dll
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\Listas\Listas\obj\Debug\net7.0\refint\Listas.dll
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\Listas\Listas\obj\Debug\net7.0\Listas.pdb
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\Listas\Listas\obj\Debug\net7.0\Listas.genruntimeconfig.cache
+G:\My Drive\Estudos\Csharp\Memoria Array e Lista\Listas\Listas\obj\Debug\net7.0\ref\Listas.dll
