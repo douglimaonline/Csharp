@@ -35,7 +35,7 @@ namespace ExerciciosDeFixacaoListas {
 
                 Employees.Find(x => x.Id == EmployeeIdIncrease).IncreaseSalary(Percentage);
 
-                Console.WriteLine();
+                Console.WriteLine("\nUpdated list of employees:");
                 foreach (var item in Employees) {
                     Console.WriteLine(item);
                 }
