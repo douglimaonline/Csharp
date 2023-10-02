@@ -8,16 +8,15 @@
 
             for (int i = 0; i < n; i++) {
                 Console.Write($"Line {i + 1}: ");
-                string[] line = Console.ReadLine().Split(" ");
+                string[] line = Console.ReadLine().Split(' ');
 
-                for (int j = 0; j < i; j++) {
+                for (int j = 0; j < n; j++) {
                     matriz[i, j] = int.Parse(line[j]);
                 }
             }
-            for (int i = 0; i < n; i++) {
-                for (int j = 0; j < n; j++) {
-                    Console.Write($"|{matriz[i, j]}");
-                }
+            Console.WriteLine("Minha matriz é:");
+            for (int i = 0;i < n; i++) {
+                Console.WriteLine(matriz[i, i]);
             }
         }
     }
