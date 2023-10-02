@@ -22,6 +22,34 @@
                     Console.Write($"{Matriz[i,j]} ");
                 }
             }
+            Console.WriteLine();
+            Console.Write("\nInteger number: ");
+            int N = int.Parse(Console.ReadLine());
+
+            int TotalTimes = 0;
+            for (int i = 0; i < Matriz.GetLength(0); i++) {
+                for (int j = 0; j < Matriz.GetLength(1); j++) {
+                    if (Matriz[i, j] == N) {
+                        TotalTimes++;
+                    };
+                }
+            }
+            Console.WriteLine($"The Number '{N}' shows up {TotalTimes} times. ");
+            Console.WriteLine();
+
+            for (int i = 0; i < Matriz.GetLength(0); i++) {
+                for (int j = 0; j < Matriz.GetLength(1); j++) {
+                    if (Matriz[i,j] == N) {
+                        Console.WriteLine($"Position: ({i}, {j})");
+                        if (j > 0) { Console.WriteLine($"Left: {Matriz[i, j-1]}"); };
+                        if (j < Matriz.GetLength(1)-1) { Console.WriteLine($"Right: {Matriz[i,j+1]}"); }
+                        
+                        if (i > 0) { Console.WriteLine($"Up: {Matriz[i-1, j]}"); }
+                        if (i < Matriz.GetLength(0)-1) { Console.WriteLine($"Down: {Matriz[i+1, j]}"); }
+                        Console.WriteLine();
+                    }
+                }
+            }
         }
     }
 }
