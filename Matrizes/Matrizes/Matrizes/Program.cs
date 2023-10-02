@@ -14,10 +14,14 @@
                     matriz[i, j] = int.Parse(line[j]);
                 }
             }
-            Console.WriteLine("Minha matriz é:");
-            for (int i = 0;i < n; i++) {
-                Console.WriteLine(matriz[i, i]);
+            Console.WriteLine($"\nMinha Matriz é:");
+            for (int i = 0;i < matriz.GetLength(0); i++) {
+                if (i > 0) { Console.WriteLine(); };
+                for (int j = 0;j < matriz.GetLength(1); j++) {
+                    Console.Write($"{matriz[i,j]} ");
+                }
             }
+            Console.WriteLine();
         }
     }
 }
