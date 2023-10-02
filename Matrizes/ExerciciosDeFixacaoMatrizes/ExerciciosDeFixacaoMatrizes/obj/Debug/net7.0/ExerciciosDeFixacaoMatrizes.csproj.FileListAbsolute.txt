@@ -1,0 +1,14 @@
+G:\My Drive\Estudos\Csharp\Matrizes\ExerciciosDeFixacaoMatrizes\ExerciciosDeFixacaoMatrizes\bin\Debug\net7.0\ExerciciosDeFixacaoMatrizes.exe
+G:\My Drive\Estudos\Csharp\Matrizes\ExerciciosDeFixacaoMatrizes\ExerciciosDeFixacaoMatrizes\bin\Debug\net7.0\ExerciciosDeFixacaoMatrizes.deps.json
+G:\My Drive\Estudos\Csharp\Matrizes\ExerciciosDeFixacaoMatrizes\ExerciciosDeFixacaoMatrizes\bin\Debug\net7.0\ExerciciosDeFixacaoMatrizes.runtimeconfig.json
+G:\My Drive\Estudos\Csharp\Matrizes\ExerciciosDeFixacaoMatrizes\ExerciciosDeFixacaoMatrizes\bin\Debug\net7.0\ExerciciosDeFixacaoMatrizes.dll
+G:\My Drive\Estudos\Csharp\Matrizes\ExerciciosDeFixacaoMatrizes\ExerciciosDeFixacaoMatrizes\bin\Debug\net7.0\ExerciciosDeFixacaoMatrizes.pdb
+G:\My Drive\Estudos\Csharp\Matrizes\ExerciciosDeFixacaoMatrizes\ExerciciosDeFixacaoMatrizes\obj\Debug\net7.0\ExerciciosDeFixacaoMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Estudos\Csharp\Matrizes\ExerciciosDeFixacaoMatrizes\ExerciciosDeFixacaoMatrizes\obj\Debug\net7.0\ExerciciosDeFixacaoMatrizes.AssemblyInfoInputs.cache
+G:\My Drive\Estudos\Csharp\Matrizes\ExerciciosDeFixacaoMatrizes\ExerciciosDeFixacaoMatrizes\obj\Debug\net7.0\ExerciciosDeFixacaoMatrizes.AssemblyInfo.cs
+G:\My Drive\Estudos\Csharp\Matrizes\ExerciciosDeFixacaoMatrizes\ExerciciosDeFixacaoMatrizes\obj\Debug\net7.0\ExerciciosDeFixacaoMatrizes.csproj.CoreCompileInputs.cache
+G:\My Drive\Estudos\Csharp\Matrizes\ExerciciosDeFixacaoMatrizes\ExerciciosDeFixacaoMatrizes\obj\Debug\net7.0\ExerciciosDeFixacaoMatrizes.dll
+G:\My Drive\Estudos\Csharp\Matrizes\ExerciciosDeFixacaoMatrizes\ExerciciosDeFixacaoMatrizes\obj\Debug\net7.0\refint\ExerciciosDeFixacaoMatrizes.dll
+G:\My Drive\Estudos\Csharp\Matrizes\ExerciciosDeFixacaoMatrizes\ExerciciosDeFixacaoMatrizes\obj\Debug\net7.0\ExerciciosDeFixacaoMatrizes.pdb
+G:\My Drive\Estudos\Csharp\Matrizes\ExerciciosDeFixacaoMatrizes\ExerciciosDeFixacaoMatrizes\obj\Debug\net7.0\ExerciciosDeFixacaoMatrizes.genruntimeconfig.cache
+G:\My Drive\Estudos\Csharp\Matrizes\ExerciciosDeFixacaoMatrizes\ExerciciosDeFixacaoMatrizes\obj\Debug\net7.0\ref\ExerciciosDeFixacaoMatrizes.dll
