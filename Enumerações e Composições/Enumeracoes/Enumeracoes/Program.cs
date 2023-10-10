@@ -15,9 +15,10 @@ namespace Enumeracoes
             Console.WriteLine(order);
 
             // Convertendo string para o Enum
-
             OrderStatus os = Enum.Parse<OrderStatus>("Delivered");
             Console.WriteLine(os);
+
+
         }
     }
 }
