@@ -1,16 +1,23 @@
-﻿namespace Enumeracoes
+﻿using Enumeracoes.Entities;
+using Enumeracoes.Entities.Enums;
+
+namespace Enumeracoes
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            List<string> MyList = new List<string> {"doug", "Juca", "Igo", "Thais", "Carol"};
+         Order order = new Order();
+            order.Id = 1080;
+            order.Moment = DateTime.Now;
+            order.Status = OrderStatus.Processing;
 
-            Console.Write("MyList = ");
-            foreach (var item in MyList)
-            {
-                Console.Write($"{item}, ");
-            }
+            Console.WriteLine(order);
+
+            // Convertendo string para o Enum
+
+            OrderStatus os = Enum.Parse<OrderStatus>("Delivered");
+            Console.WriteLine(os);
         }
     }
 }
