@@ -22,10 +22,13 @@ namespace Exercicios
 
             for (int i = 0; i < NumOfContracts; i++)
             {
-                Console.WriteLine($"Enter #{i+1} contract data:");
+                Console.WriteLine($"Enter #{i + 1} contract data:");
                 Console.Write("Date (DD/MM/YYY)");
+                DateTime Date = DateTime.Parse(Console.ReadLine());
                 Console.Write("Value per hour: ");
+                double ValuePHour = double.Parse(Console.ReadLine());
                 Console.Write("Duration (hour): ");
+                int Hours = int.Parse(Console.ReadLine());
             }
         }
     }
