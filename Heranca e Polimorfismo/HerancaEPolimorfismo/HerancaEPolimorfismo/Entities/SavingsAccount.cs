@@ -6,7 +6,20 @@ using System.Threading.Tasks;
 
 namespace HerancaEPolimorfismo.Entities
 {
-    internal class SavingsAccount
+    internal class SavingsAccount : Account
     {
+        public double interestRate { get; private set; }
+        public SavingsAccount() : base()
+        {
+        }
+
+        public SavingsAccount(double interestRate, int number, string holder, double balance) : base(number, holder, balance)
+        {
+            this.interestRate = interestRate;
+        }
+        public void updateBalance()
+        {
+            balance = balance + (balance * (interestRate / 100));
+        }
     }
 }
