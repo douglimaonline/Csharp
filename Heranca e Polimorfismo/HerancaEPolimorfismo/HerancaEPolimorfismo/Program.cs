@@ -34,7 +34,7 @@ namespace HerancaEPolimorfismo
 
             if (acc3 is BussinesAccount)
             {
-                BussinesAccount acc5 = (BussinesAccount)acc3;
+                BussinesAccount acc5 = acc3 as BussinesAccount;
             }
 
         }
