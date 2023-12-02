@@ -1,0 +1,14 @@
+G:\My Drive\Estudos\Csharp\LearningAboutInterface\LearningAboutInterface\obj\Debug\net7.0\LearningAboutInterface.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Estudos\Csharp\LearningAboutInterface\LearningAboutInterface\obj\Debug\net7.0\LearningAboutInterface.AssemblyInfoInputs.cache
+G:\My Drive\Estudos\Csharp\LearningAboutInterface\LearningAboutInterface\obj\Debug\net7.0\LearningAboutInterface.AssemblyInfo.cs
+G:\My Drive\Estudos\Csharp\LearningAboutInterface\LearningAboutInterface\obj\Debug\net7.0\LearningAboutInterface.csproj.CoreCompileInputs.cache
+G:\My Drive\Estudos\Csharp\LearningAboutInterface\LearningAboutInterface\bin\Debug\net7.0\LearningAboutInterface.exe
+G:\My Drive\Estudos\Csharp\LearningAboutInterface\LearningAboutInterface\bin\Debug\net7.0\LearningAboutInterface.deps.json
+G:\My Drive\Estudos\Csharp\LearningAboutInterface\LearningAboutInterface\bin\Debug\net7.0\LearningAboutInterface.runtimeconfig.json
+G:\My Drive\Estudos\Csharp\LearningAboutInterface\LearningAboutInterface\bin\Debug\net7.0\LearningAboutInterface.dll
+G:\My Drive\Estudos\Csharp\LearningAboutInterface\LearningAboutInterface\bin\Debug\net7.0\LearningAboutInterface.pdb
+G:\My Drive\Estudos\Csharp\LearningAboutInterface\LearningAboutInterface\obj\Debug\net7.0\LearningAboutInterface.dll
+G:\My Drive\Estudos\Csharp\LearningAboutInterface\LearningAboutInterface\obj\Debug\net7.0\refint\LearningAboutInterface.dll
+G:\My Drive\Estudos\Csharp\LearningAboutInterface\LearningAboutInterface\obj\Debug\net7.0\LearningAboutInterface.pdb
+G:\My Drive\Estudos\Csharp\LearningAboutInterface\LearningAboutInterface\obj\Debug\net7.0\LearningAboutInterface.genruntimeconfig.cache
+G:\My Drive\Estudos\Csharp\LearningAboutInterface\LearningAboutInterface\obj\Debug\net7.0\ref\LearningAboutInterface.dll
