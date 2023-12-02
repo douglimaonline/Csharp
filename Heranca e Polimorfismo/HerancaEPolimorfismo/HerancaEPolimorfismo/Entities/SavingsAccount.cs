@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HerancaEPolimorfismo.Entities
 {
-    internal class SavingsAccount : Account
+    internal sealed class SavingsAccount : Account
     {
         public double interestRate { get; private set; }
         public SavingsAccount() : base()
