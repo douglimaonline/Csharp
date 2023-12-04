@@ -1,0 +1,14 @@
+G:\My Drive\Estudos\Csharp\Interfaces\PaymentAutomatization\PaymentAutomatization\bin\Debug\net7.0\PaymentAutomatization.exe
+G:\My Drive\Estudos\Csharp\Interfaces\PaymentAutomatization\PaymentAutomatization\bin\Debug\net7.0\PaymentAutomatization.deps.json
+G:\My Drive\Estudos\Csharp\Interfaces\PaymentAutomatization\PaymentAutomatization\bin\Debug\net7.0\PaymentAutomatization.runtimeconfig.json
+G:\My Drive\Estudos\Csharp\Interfaces\PaymentAutomatization\PaymentAutomatization\bin\Debug\net7.0\PaymentAutomatization.dll
+G:\My Drive\Estudos\Csharp\Interfaces\PaymentAutomatization\PaymentAutomatization\bin\Debug\net7.0\PaymentAutomatization.pdb
+G:\My Drive\Estudos\Csharp\Interfaces\PaymentAutomatization\PaymentAutomatization\obj\Debug\net7.0\PaymentAutomatization.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Estudos\Csharp\Interfaces\PaymentAutomatization\PaymentAutomatization\obj\Debug\net7.0\PaymentAutomatization.AssemblyInfoInputs.cache
+G:\My Drive\Estudos\Csharp\Interfaces\PaymentAutomatization\PaymentAutomatization\obj\Debug\net7.0\PaymentAutomatization.AssemblyInfo.cs
+G:\My Drive\Estudos\Csharp\Interfaces\PaymentAutomatization\PaymentAutomatization\obj\Debug\net7.0\PaymentAutomatization.csproj.CoreCompileInputs.cache
+G:\My Drive\Estudos\Csharp\Interfaces\PaymentAutomatization\PaymentAutomatization\obj\Debug\net7.0\PaymentAutomatization.dll
+G:\My Drive\Estudos\Csharp\Interfaces\PaymentAutomatization\PaymentAutomatization\obj\Debug\net7.0\refint\PaymentAutomatization.dll
+G:\My Drive\Estudos\Csharp\Interfaces\PaymentAutomatization\PaymentAutomatization\obj\Debug\net7.0\PaymentAutomatization.pdb
+G:\My Drive\Estudos\Csharp\Interfaces\PaymentAutomatization\PaymentAutomatization\obj\Debug\net7.0\PaymentAutomatization.genruntimeconfig.cache
+G:\My Drive\Estudos\Csharp\Interfaces\PaymentAutomatization\PaymentAutomatization\obj\Debug\net7.0\ref\PaymentAutomatization.dll
