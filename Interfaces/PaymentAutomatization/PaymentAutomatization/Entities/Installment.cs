@@ -14,7 +14,7 @@ namespace PaymentAutomatization.Entities
 
         public override string ToString()
         {
-            return $"{DueDate.ToString("dd/MM/yyyy")} - {Amount}";
+            return $"{DueDate.ToString("dd/MM/yyyy")} - {Amount.ToString("F")}";
         }
     }
 }
