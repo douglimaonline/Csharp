@@ -26,7 +26,7 @@ namespace PaymentAutomatization
 
             ContractService contractService = new ContractService();
 
-            contractService.ProcessContract(contract, numOfInstallments, new PaypalService());
+            contractService.ProcessContract(contract, numOfInstallments, new OnlinePaymentService());
 
             Console.WriteLine("Installments:");
 
