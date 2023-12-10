@@ -24,9 +24,12 @@ namespace PaymentAutomatization
             Console.Write("Enter number of installments: ");
             int numOfInstallments = int.Parse(Console.ReadLine());
 
+            Console.Write("Payment Service (Pix/PayPal): ");
+            string PaymentService = (Console.ReadLine());
+
             ContractService contractService = new ContractService();
 
-            contractService.ProcessContract(contract, numOfInstallments, new OnlinePaymentService());
+            contractService.ProcessContract(contract, numOfInstallments, new OnlinePaymentService(), PaymentService);
 
             Console.WriteLine("Installments:");
 
