@@ -44,6 +44,19 @@ namespace LINQAndLamda
             // Products of tolls Category
             var result2 = Products.Where(p => p.Category == c1).Select(p => p.Name).ToList();
             Print("Products of tolls Category", result2);
+            Console.WriteLine();
+
+            //Grouping
+            var result3 = Products.GroupBy(p => p.Category);
+            foreach (IGrouping<Category, Product> group in result3)
+            {
+                Console.WriteLine($"{group.Key.Name}:");
+                foreach (var item in group)
+                {
+                    Console.WriteLine(item);
+                }
+                Console.WriteLine();
+            }
         }
     }
 }
